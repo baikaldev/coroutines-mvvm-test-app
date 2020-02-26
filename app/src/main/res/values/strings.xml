@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PosterTestApp</string>
+    <string name="posters_filter_switch_name">Показать только за 2020 год</string>
+</resources>
